@@ -4,3 +4,6 @@
 [submodule "libdatachannel"]
 	path = libdatachannel
 	url = https://github.com/paullouisageneau/libdatachannel
+[submodule "ScreenCapture"]
+	path = ScreenCapture
+	url = https://github.com/WindowsNT/ScreenCapture
